@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://epightmis.github.io/sitemap
+Sitemap: https://epightmis.github.io/app/sitemap
+Sitemap: https://epightmis.github.io/assets/sitemap
+Sitemap: https://epightmis.github.io/css/sitemap
+Sitemap: https://epightmis.github.io/includes/sitemap
+Sitemap: https://epightmis.github.io/item/sitemap
+Sitemap: https://epightmis.github.io/src/sitemap
